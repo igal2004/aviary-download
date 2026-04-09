@@ -2,7 +2,7 @@
   "appName": "נוכחות חירום",
   "appNameEn": "Emergency Attendance",
   "version": "1.3.3",
-  "apkUrl": "https://vida-prod-webdev-app.s3.us-east-1.amazonaws.com/android-builds/310519663383156782/1d234fc8-f66e-422a-9167-255fc1df5856/aviary-pro-manager-v1_0_7.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZV3A2ECZO4N7RSPW%2F20260409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260409T055113Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=b470ec4bb74bf446efa6d101c3477dbbaf9c89717f7bc4eb33252be6ed6b7e4a",
+  "apkUrl": "https://github.com/igal2004/aviary-download/releases/download/v1.3.3/aviary-pro-manager-v1.3.3.apk",
   "releaseDate": "2026-04-09",
   "releaseNotes": [
     "כניסה אוטומטית — לא צריך להזין סיסמה בכל פתיחה",
