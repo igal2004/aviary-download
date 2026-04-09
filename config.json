@@ -1,17 +1,15 @@
 {
   "appName": "נוכחות חירום",
   "appNameEn": "Emergency Attendance",
-  "version": "1.3.4",
-  "apkUrl": "https://github.com/igal2004/aviary-download/releases/download/v1.3.4/aviary-pro-manager-v1.3.4.apk",
+  "version": "1.3.5",
+  "apkUrl": "https://github.com/igal2004/aviary-download/releases/download/v1.3.5/aviary-pro-manager-v1.3.5.apk",
   "releaseDate": "2026-04-09",
   "releaseNotes": [
-    "תיקון: Push notifications נרשמים אוטומטית עם הכניסה",
+    "תיקון קריטי: Push notifications עובדים כעת על מכשירים פיזיים",
+    "רישום אוטומטי לקבלת התראות עם כניסה לאפליקציה",
     "תיקון: סמלים לא מובנים בסרגל הניווט לעובדים רגילים",
-    "כניסה אוטומטית — לא צריך להזין סיסמה בכל פתיחה",
-    "תיקון: שם מלא מתעדכן מיד לאחר עריכת פרופיל",
-    "מפה אינטראקטיבית עם מיקומי עובדים",
-    "ייבוא עובדים מ-Excel/CSV",
-    "עריכה ומחיקה של התראות ואירועים"
+    "כניסה אוטומטית בפתיחת האפליקציה מחדש",
+    "תיקון: שם מלא מתעדכן מיד לאחר עריכת פרופיל"
   ],
   "minAndroid": "7.0 (API 24)",
   "supportEmail": "igal2004@gmail.com"
