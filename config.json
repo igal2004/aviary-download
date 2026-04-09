@@ -1,11 +1,11 @@
 {
   "appName": "נוכחות חירום",
   "appNameEn": "Emergency Attendance",
-  "version": "1.3.6",
-  "apkUrl": "https://github.com/igal2004/aviary-download/releases/download/v1.3.6/aviary-pro-manager-v1.3.6.apk",
+  "version": "1.3.7",
+  "apkUrl": "https://github.com/igal2004/aviary-download/releases/download/v1.3.7/aviary-pro-manager-v1.3.7.apk",
   "releaseDate": "2026-04-09",
   "releaseNotes": [
-    "תיקון קריטי: Push notifications — APK מכיר כעת את כתובת השרת",
+    "תיקון Push: NotificationHandler גלובלי, סינון tokens, לוגים מפורטים",
     "רישום Push token אוטומטי עם כניסה לאפליקציה",
     "תיקון: סמלים לא מובנים בסרגל הניווט לעובדים רגילים",
     "כניסה אוטומטית בפתיחת האפליקציה מחדש",
